@@ -7,7 +7,7 @@
 # DOMAIN-SUFFIX: zero
 # IP-CIDR: zero
 # IP-CIDR6: zero
-# PROCESS-NAME: 1
+# PROCESS-NAME: zero
 # TOTAL: 5
 payload:
   - DOMAIN,csl.prod.ondemandconnectivity.com
