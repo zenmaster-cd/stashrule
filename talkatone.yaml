@@ -1,0 +1,18 @@
+# NAME: talkatone
+# AUTHOR: zenmaster-cd
+# REPO: https://github.com/zenmaster-cd/stashrule
+# UPDATED: 2024-03-11 
+# DOMAIN: zero
+# DOMAIN-KEYWORD: zero
+# DOMAIN-SUFFIX: 6
+# IP-CIDR: zero
+# IP-CIDR6: zero
+# PROCESS-NAME: zero
+# TOTAL: 6
+payload:
+  - DOMAIN-SUFFIX,inmobi.com
+  - DOMAIN-SUFFIX,mobilefuse.com
+  - DOMAIN-SUFFIX,talkatone.com
+  - DOMAIN-SUFFIX,tenor.com
+  - DOMAIN-SUFFIX,tktn.at
+  - DOMAIN-SUFFIX,tktn.be
