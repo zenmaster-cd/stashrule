@@ -1,0 +1,16 @@
+# NAME: talkatone
+# AUTHOR: zenmaster-cd
+# REPO: https://github.com/zenmaster-cd/stashrule
+# UPDATED: 2024-03-11 
+# DOMAIN: zero
+# DOMAIN-KEYWORD: zero
+# DOMAIN-SUFFIX: zero
+# IP-CIDR: 5
+# IP-CIDR6: zero
+# PROCESS-NAME: zero
+# TOTAL: 5
+50.117.27.0/24
+63.251.124.0/24
+69.46.75.0/24
+205.164.56.0/24
+205.164.56.29/24
