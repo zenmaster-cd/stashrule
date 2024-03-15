@@ -4,15 +4,17 @@
 # UPDATED: 2024-03-11 
 # DOMAIN: zero
 # DOMAIN-KEYWORD: zero
-# DOMAIN-SUFFIX: 6
+# DOMAIN-SUFFIX: 7
 # IP-CIDR: zero
 # IP-CIDR6: zero
 # PROCESS-NAME: zero
-# TOTAL: 6
+# TOTAL: 7
 payload:
   - DOMAIN-SUFFIX,inmobi.com
+  - DOMAIN-SUFFIX,inner-active.inmobi
   - DOMAIN-SUFFIX,mobilefuse.com
   - DOMAIN-SUFFIX,talkatone.com
   - DOMAIN-SUFFIX,tenor.com
+  - DOMAIN-SUFFIX,criteo.com
   - DOMAIN-SUFFIX,tktn.at
   - DOMAIN-SUFFIX,tktn.be
